@@ -165,7 +165,7 @@ Nathan: 你想了解什么？
     => END
 ```
 
-2. **在开始对话时传递额外的游戏状态**（详情请参阅[额外游戏状态Extra Game States](./Conditions_Mutations.md#extra-game-states)）。来自额外游戏状态的变量可以直接引用，无需 `locals.` 前缀。
+2. **在开始对话时传递额外的游戏状态**（详情请参阅[额外游戏状态Extra Game States](./Conditions_Mutations中文.md#额外游戏状态)）。来自额外游戏状态的变量可以直接引用，无需 `locals.` 前缀。
 
 ## 标签
 
